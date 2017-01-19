@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /404.html
+Disallow: /chinese-new-year-gala-online
+
+Sitemap: http://www.honglingjin.us/sitemap.xml

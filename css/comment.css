@@ -1,0 +1,33 @@
+#ds-reset .ds-avatar{background:none!important;box-shadow:none!important;}
+#ds-reset .ds-avatar img,#ds-thread #ds-reset ul.ds-children .ds-avatar img{background:#fff;border-radius:30px;height:30px!important;padding:3px;-webkit-transition:.8s;-moz-transition:.8s;-o-transition:.8s;-ms-transition:.8s;width:30px!important;}
+.ds-post:hover .ds-avatar img{border-radius:30px!important;transform:rotate(720deg);-webkit-transform:rotate(720deg);-moz-transform:rotate(720deg);-o-transform:rotate(720deg);-ms-transform:rotate(720deg);}
+#ds-reset .ds-avatar img:hover{border-radius:30px!important;transform:rotate(720deg);-webkit-transform:rotate(720deg);-moz-transform:rotate(720deg);-o-transform:rotate(720deg);-ms-transform:rotate(720deg);}
+#ds-thread #ds-reset .ds-comment-body,#ds-thread #ds-reset ul.ds-children .ds-comment-body{padding-left:70px!important;}
+#ds-thread #ds-reset .ds-comment-body,#ds-thread #ds-reset ul.ds-children .ds-comment-body{padding-left:70px!important;}
+.ds-post:hover{background:transparent!important;}
+#ds-thread #ds-reset ul.ds-children .ds-avatar{width:50px!important;}
+#ds-thread #ds-reset .ds-replybox{padding:0 0 0 80px!important;}
+#ds-reset #ds-ctx .ds-ctx-entry .ds-ctx-body{margin-left:68px!important;}
+#ds-recent-comments li.ds-comment:nth-of-type(1){border:none!important;}
+.ds-sync{display:none!important;}
+.ds-meta{display:none!important;}
+.ds-comments-info{display:none!important;}
+.ds-replybox .ds-avatar{display:none!important;}
+.ds-icons-32{display:none!important;}
+#ds-thread #ds-reset .ds-textarea-wrapper{background:#fcfcfc;border:0;}
+#ds-thread #ds-reset li.ds-post{border-top:0;}
+#ds-thread #ds-reset .ds-comments,#ds-thread #ds-reset .ds-paginator{border-bottom:0;}
+#ds-thread #ds-reset .ds-powered-by{display:none;}
+#ds-thread #ds-reset .ds-textarea-wrapper{background:#fcfcfc;border:0;}
+#ds-thread #ds-reset .ds-post-self{border-bottom:1px dotted #f2f2f2;}
+#ds-thread #ds-reset .ds-post-options{border:0;}
+#ds-thread{padding-bottom:80px;padding-top:80px;}
+#ds-thread #ds-reset .ds-replybox{padding:0!important;}
+.ds-post-likes{display:none!important;}
+.ds-post-repost{display:none!important;}
+.ds-post-report{display:none!important;}
+.ds-icon-reply{display:none!important;}
+#ds-thread #ds-reset a.ds-user-name[data-user-id='bpplpp']:after{background:rgba(255,255,255,.35);border-radius:4px;color:#13bf20;content:"博主";font-size:12px;margin-left:6px;padding:0 3px;}
+#ds-thread #ds-reset .ds-replybox{background:#fafafa;padding:0!important;}
+#ds-thread #ds-reset .ds-post-button{background:#16171b;}
+#ds-thread #ds-reset .ds-post-button:hover{background:#ff2828;}
