@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>美国红领巾</title>
+  <title>美国羽西</title>
   <subtitle>美国生活 旅游 留学 购物指南</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://www.honglingjin.us/"/>
+  <link href="http://us.yuxir.com/"/>
   <updated>2017-01-19T11:05:16.000Z</updated>
-  <id>http://www.honglingjin.us/</id>
+  <id>http://us.yuxir.com/</id>
   
   <author>
-    <name>红领巾</name>
-    <email>info@honglingjin.us</email>
+    <name>羽西</name>
+    <email>info@yuxir.com</email>
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
     <title>央视春晚海外直播网址</title>
-    <link href="http://www.honglingjin.us/chinese-new-year-gala-online/"/>
-    <id>http://www.honglingjin.us/chinese-new-year-gala-online/</id>
+    <link href="http://us.yuxir.com/chinese-new-year-gala-online/"/>
+    <id>http://us.yuxir.com/chinese-new-year-gala-online/</id>
     <published>2016-09-22T05:40:12.000Z</published>
     <updated>2017-01-19T11:05:16.000Z</updated>
     
@@ -99,14 +99,14 @@
     
     </summary>
     
-      <category term="生活" scheme="http://www.honglingjin.us/categories/%E7%94%9F%E6%B4%BB/"/>
+      <category term="生活" scheme="http://us.yuxir.com/categories/%E7%94%9F%E6%B4%BB/"/>
     
     
-      <category term="春晚" scheme="http://www.honglingjin.us/tags/%E6%98%A5%E6%99%9A/"/>
+      <category term="春晚" scheme="http://us.yuxir.com/tags/%E6%98%A5%E6%99%9A/"/>
     
-      <category term="海外直播" scheme="http://www.honglingjin.us/tags/%E6%B5%B7%E5%A4%96%E7%9B%B4%E6%92%AD/"/>
+      <category term="海外直播" scheme="http://us.yuxir.com/tags/%E6%B5%B7%E5%A4%96%E7%9B%B4%E6%92%AD/"/>
     
-      <category term="央视春晚" scheme="http://www.honglingjin.us/tags/%E5%A4%AE%E8%A7%86%E6%98%A5%E6%99%9A/"/>
+      <category term="央视春晚" scheme="http://us.yuxir.com/tags/%E5%A4%AE%E8%A7%86%E6%98%A5%E6%99%9A/"/>
     
   </entry>
   
